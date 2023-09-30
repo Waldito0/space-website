@@ -130,7 +130,7 @@ img {
   width: max-content;
   background-color: var(--body-color);
   color: var(--title-color);
-  border: 2px aolid var(--text-color);
+  border: 2px solid var(--text-color);
   padding: 1rem 3rem;
   border-radius: 4rem;
 }
