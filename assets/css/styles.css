@@ -133,6 +133,7 @@ img {
   border: 2px solid var(--text-color);
   padding: 1rem 3rem;
   border-radius: 4rem;
+  margin-top: 20px;
 }
 .nav__logo i {
   font-size: 1.25rem;
